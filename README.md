@@ -11,9 +11,6 @@
 #### 4a) To run the Roomba program, type `python vacuum.py` in the terminal.
 #### 4b) To run the sandwich building program, type `python sandwich.py` in the terminal.
 
-## Issues
-#### We were able to nail down the spiral pattern for the Roomba, however, we were not completely able to implement the wall bouncing and then straight pattern behavior. We mostly were able to replicate it and the Roomba acts quite intelligently, however, we do not believe these behaviors were implemented as intended. ¯\\\_(ツ)\_/¯
-
 ## Important Documents
 #### *  [sandwich.py Flow Diagram](https://gitlab.bucknell.edu/krd008/csci357-sp21a/blob/master/docs/sandwich.py%20Flow%20Diagram.pdf)
 #### *  [vacuumAgent.py Flow Diagram & GEA Worksheet](https://gitlab.bucknell.edu/krd008/csci357-sp21a/blob/master/docs/CogSci%20Assignment%20GEA%20and%20Flowchart.pdf)
