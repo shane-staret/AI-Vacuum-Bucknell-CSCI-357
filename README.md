@@ -1,4 +1,4 @@
-#  Learning Rule-Based Expert Systems Using Python ACT-R | Kevin Doyle & Shane Staret
+#  Learning Rule-Based Expert Systems Using Python ACT-R
 
 ## Assignment Description
 #### The primary goal of this assignment is to create an intelligent ["Roomba"](https://www.irobot.com/roomba) robot that can intelligently navigate through a finite virtual 2D space. The main idea is to use [Python ACT-R](https://sites.google.com/site/pythonactr/) to specify behaviors that the Roomba should use in certain situations. [These include spiraling, bouncing, and wall-following.](https://www.cnet.com/home/kitchen-and-household/appliance-science-how-robotic-vacuums-navigate/#) The code for this portion of the assignment is in [vacuum.py](https://gitlab.bucknell.edu/krd008/csci357-sp21a/blob/master/vacuum.py).
